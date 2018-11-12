@@ -31,7 +31,7 @@ npm run build --report
 
 ## 欢迎加入群聊讨论相关技术问题
 
-![image](https://github.com/Xingen123/Vue-Phone/blob/master/readmeImg/my.jpg)
+<img src="https://github.com/Xingen123/Vue-Phone/blob/master/readmeImg/my.jpg" width="250" alt="欢迎加入"/> 
 
 <!-- ###  表格的制作
 
