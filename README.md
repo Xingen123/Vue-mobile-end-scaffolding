@@ -21,15 +21,20 @@ npm run build --report
 
 
 ## 更新日志
+
+### v1.0
 #####  增加数据模拟脱离后端独立开发mock
+### v1.1
 #####  增加移动端调试工具vconsole 上线之前别忘记注掉
+### v1.2
 #####  增加解决移动端click事件300毫秒延迟方法
+### v1.3
 #####  增加px自动转rem功能
+### v1.4
 #####  增加全局配置 导入api接口
 
 
-
-## 欢迎加入群聊讨论相关技术问题
+## 欢迎加好友面试进群讨论相关技术问题（找工作可以内推工作岗位）
 
 <img src="https://github.com/Xingen123/Vue-Phone/blob/master/readmeImg/my.jpg" width="250" alt="欢迎加入"/> 
 
