@@ -1,7 +1,7 @@
 
 import axios from './http'
 
-const login = () => axios.post(`/user`);
+const login = () => axios.get(`/user`);
      
 const detail = () => axios.post(`/detail`);
 
