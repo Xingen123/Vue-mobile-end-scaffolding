@@ -32,8 +32,17 @@ npm run build --report
 #####  增加px自动转rem功能
 ### v1.4
 #####  增加全局配置 导入api接口
+### v1.5
+#####  增加组件loading 使用方法（当然不喜欢可以换成自己的这里用的是mintUI的组件）
+```
+import { Indicator } from 'mint-ui';
+
+ Indicator.open('Loading...') //开启
+
+ Indicator.close()            //关闭
 
 
+```
 ## 欢迎加好友面试进群讨论相关技术问题（找工作可以内推工作岗位）
 
 <img src="https://github.com/Xingen123/Vue-Phone/blob/master/readmeImg/my.jpg" width="250" alt="欢迎加入"/> 
