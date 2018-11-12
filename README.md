@@ -21,16 +21,11 @@ npm run build --report
 
 
 ## 更新日志
-##### this.$refs.cropper.startCrop()  开始截图
-##### this.$refs.cropper.stopCrop()  停止截图
-##### this.$refs.cropper.clearCrop()  清除截图
-##### this.$refs.cropper.changeScale()  修改图片大小 正数为变大 负数变小
-##### this.$refs.cropper.getImgAxis() 获取图片基于容器的坐标点
-##### this.$refs.cropper.getCropAxis() 获取截图框基于容器的坐标点
-##### this.$refs.cropper.goAutoCrop 自动生成截图框函数
-##### this.$refs.cropper.rotateRight() 向右边旋转90度
-##### this.$refs.cropper.rotateLeft() 向左边旋转90度
-
+#####  增加数据模拟脱离后端独立开发mock
+#####  增加移动端调试工具vconsole 上线之前别忘记注掉
+#####  增加解决移动端click事件300毫秒延迟方法
+#####  增加px自动转rem功能
+#####  增加全局配置 导入api接口
 
 <!-- ###  表格的制作
 
