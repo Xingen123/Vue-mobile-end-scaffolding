@@ -27,9 +27,11 @@ npm run build --report
 #####  增加px自动转rem功能
 #####  增加全局配置 导入api接口
 
+
+
 ## 欢迎加入群聊讨论相关技术问题
 
-![image](https://github.com/Xingen123/Vue-Phone/readmeImg/my.jpg)
+![image](https://github.com/Xingen123/Vue-Phone/blob/master/readmeImg/my.jpg)
 
 <!-- ###  表格的制作
 
